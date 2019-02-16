@@ -12,7 +12,7 @@ Scala is the underlying source language that makes up Spark,kafka and so on.
 
 Mixed programming with languages such as java but
 
-![image](tps://github.com/29DCH/MyScalaCodes/blob/master/interesting%20picture.jpg)
+![image](https://github.com/29DCH/MyScalaCodes/blob/master/interesting_picture.jpg)
 
 
 
