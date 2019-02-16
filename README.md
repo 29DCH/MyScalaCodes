@@ -10,7 +10,7 @@ Scala combines object-oriented and functional programming in one concise, high-l
 
 Seamlessly connect the Hadoop ecosystem
 
-Scala is the underlying source language that makes up Spark,kafka and so on.
+Scala is the underlying source language that makes up Spark,kafka,akka and so on.
 
 Mixed programming with languages such as java but
 
