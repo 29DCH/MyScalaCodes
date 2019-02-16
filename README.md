@@ -1,5 +1,5 @@
 # MyScalaCodes
-My Scala learning code
+My Scala learning codes
 
 
 Scala is the most simple and elegant language I have ever studied.
