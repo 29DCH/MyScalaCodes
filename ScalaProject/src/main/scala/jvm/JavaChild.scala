@@ -1,0 +1,5 @@
+package jvm
+
+object JavaChild {
+
+}
