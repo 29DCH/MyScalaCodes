@@ -24,7 +24,7 @@ object CustomSort {
   def main(args: Array[String]) {
     val conf = new SparkConf().setAppName("CustomSort").setMaster("local[2]")
     val sc = new SparkContext(conf)
-    val rdd1 = sc.parallelize(List(("yuihatano", 90, 28, 1), ("angelababy", 90, 27, 2),("JuJingYi", 95, 22, 3)))
+    val rdd1 = sc.parallelize(List(("1", 90, 28, 1), ("2", 90, 27, 2),("3", 95, 22, 3)))
     import OrderContext._
     val rdd2 = rdd1.sortBy(x => Girl(x._2, x._3), false)
     println(rdd2.collect().toBuffer)
